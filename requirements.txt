@@ -1,0 +1,2 @@
+# Requirements for GMOD Workshop Manager GUI
+pillow>=9.0.0
